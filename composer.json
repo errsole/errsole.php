@@ -1,0 +1,7 @@
+{
+  "name": "errsole/errsole",
+  "description": "Logger and Debugger",
+  "require": {
+    "php": ">=8.2"
+  }
+}
